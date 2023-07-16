@@ -1,0 +1,3 @@
+Ah, my friend, let me tell you about this fantastic app we've got here! This app is a beast, an absolute champ that'll show you the ARIMA model of Prophet, yeah, that's right, the one and only Prophet, for forecasting the sales of Airpods at an Apple store. The data is right there in the repository, ready to unleash its magic.
+
+Imagine that, mate, we'll peer into the next two years, foreseeing the demand for those beloved Airpods with crystal clarity. Our forecasts will be spot-on, guiding the Apple store to success, meeting customer desires, and boosting those sales through the roof.
